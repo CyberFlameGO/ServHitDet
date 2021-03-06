@@ -1,0 +1,5 @@
+name: ServHitDet
+main: net.cyberflame.servhitdet.ServHitDet
+version: 1.0
+author: CyberFlame
+description: A server-side hit detection API
