@@ -1,4 +1,4 @@
-package net.cyberflame.servhitdet.util;
+package net.cyberflame.servhitdet.utils;
 
 import java.util.Objects;
 
